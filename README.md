@@ -5,3 +5,7 @@
 在findSpaces.exe所在的文件夹中，打开cmd或者powershell，输入：findSpaces test.txt，按回车。
 
 ps：test.txt 已经放在当前文件夹。
+
+---
+
+这是我在练习写的程序。

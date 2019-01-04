@@ -1,3 +1,3 @@
 this is a test file.
 there are three lines.
-this is the third line.
+this is the third line. Hello, my friends. 
